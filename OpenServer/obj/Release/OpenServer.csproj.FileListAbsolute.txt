@@ -1,0 +1,11 @@
+E:\gogit\OpenServer\OpenServer\bin\Release\OpenServer.exe.config
+E:\gogit\OpenServer\OpenServer\bin\Release\OpenServer.exe
+E:\gogit\OpenServer\OpenServer\bin\Release\OpenServer.pdb
+E:\gogit\OpenServer\OpenServer\bin\Release\LuaInterface.dll
+E:\gogit\OpenServer\OpenServer\bin\Release\NetFrame.dll
+E:\gogit\OpenServer\OpenServer\bin\Release\Protocol.dll
+E:\gogit\OpenServer\OpenServer\bin\Release\NetFrame.pdb
+E:\gogit\OpenServer\OpenServer\bin\Release\Protocol.pdb
+E:\gogit\OpenServer\OpenServer\obj\Release\OpenServer.csprojResolveAssemblyReference.cache
+E:\gogit\OpenServer\OpenServer\obj\Release\OpenServer.exe
+E:\gogit\OpenServer\OpenServer\obj\Release\OpenServer.pdb

@@ -1,0 +1,5 @@
+E:\gogit\OpenServer\Protocol\bin\Release\Protocol.dll
+E:\gogit\OpenServer\Protocol\bin\Release\Protocol.pdb
+E:\gogit\OpenServer\Protocol\obj\Release\Protocol.csprojResolveAssemblyReference.cache
+E:\gogit\OpenServer\Protocol\obj\Release\Protocol.dll
+E:\gogit\OpenServer\Protocol\obj\Release\Protocol.pdb

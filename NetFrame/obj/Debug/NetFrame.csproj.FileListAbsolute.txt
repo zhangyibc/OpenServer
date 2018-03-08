@@ -1,0 +1,9 @@
+D:\courseProject\LoLServer\LOLServer\NetFrame\bin\Debug\NetFrame.dll
+D:\courseProject\LoLServer\LOLServer\NetFrame\bin\Debug\NetFrame.pdb
+D:\courseProject\LoLServer\LOLServer\NetFrame\obj\Debug\NetFrame.dll
+D:\courseProject\LoLServer\LOLServer\NetFrame\obj\Debug\NetFrame.pdb
+E:\CSharpWork\OpenServer\NetFrame\bin\Debug\NetFrame.dll
+E:\CSharpWork\OpenServer\NetFrame\bin\Debug\NetFrame.pdb
+E:\CSharpWork\OpenServer\NetFrame\obj\Debug\NetFrame.csprojResolveAssemblyReference.cache
+E:\CSharpWork\OpenServer\NetFrame\obj\Debug\NetFrame.dll
+E:\CSharpWork\OpenServer\NetFrame\obj\Debug\NetFrame.pdb

@@ -1,0 +1,4 @@
+E:\gogit\OpenServer\NetFrame\bin\Release\NetFrame.dll
+E:\gogit\OpenServer\NetFrame\bin\Release\NetFrame.pdb
+E:\gogit\OpenServer\NetFrame\obj\Release\NetFrame.dll
+E:\gogit\OpenServer\NetFrame\obj\Release\NetFrame.pdb

@@ -1,0 +1,1 @@
+print("ID:" .. tokenID .. " message:" .. message)

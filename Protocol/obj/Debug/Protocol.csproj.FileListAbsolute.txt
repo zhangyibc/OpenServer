@@ -1,0 +1,12 @@
+D:\courseProject\LoLServer\LOLServer\Protocol\bin\Debug\Protocol.dll
+D:\courseProject\LoLServer\LOLServer\Protocol\bin\Debug\Protocol.pdb
+D:\courseProject\LOLClient\New Unity Project\Assets\Plugins\Protocol.dll
+D:\courseProject\LOLClient\New Unity Project\Assets\Plugins\Protocol.pdb
+D:\courseProject\LoLServer\LOLServer\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
+D:\courseProject\LoLServer\LOLServer\Protocol\obj\Debug\Protocol.dll
+D:\courseProject\LoLServer\LOLServer\Protocol\obj\Debug\Protocol.pdb
+E:\LOLClient\New Unity Project\Assets\Plugins\Protocol.dll
+E:\LOLClient\New Unity Project\Assets\Plugins\Protocol.pdb
+E:\CSharpWork\OpenServer\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
+E:\CSharpWork\OpenServer\Protocol\obj\Debug\Protocol.dll
+E:\CSharpWork\OpenServer\Protocol\obj\Debug\Protocol.pdb
